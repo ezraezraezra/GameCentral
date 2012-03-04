@@ -1,0 +1,13 @@
+/**********************************************************************
+ * Developer:   Ezra Velazquez http://ezraezraezra.com
+ * Class:       ITP - Redial Telephony
+ * 
+ * Date:        March 2012
+ *
+ * Title:       GameCentral
+ * Description: A collection of games that are played with touch-tone
+ *              telephones.
+ *
+ * Tech:        Asterisk, PHPAGI, MySQL
+ * Last Update: Mar 4th, 2012
+ ***********************************************************************/
